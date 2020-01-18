@@ -1,0 +1,2 @@
+#+title: global-line.el
+#+author: Will Dey
